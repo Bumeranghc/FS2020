@@ -6,7 +6,7 @@ There is no need for registry edits for the Windows Store version of Microsoft F
 
 1. Download the "stick" and "throttle" files for Saitek X-55 RHINO.
 2. Connect Joystick and Throttle to your computer.
-3. Press ⊞ + R.
+3. Press ⊞ + R, enter the next path %LOCALAPPDATA%\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\SystemAppData\wgs\0009000006BC35B1_00000000000000000000000069F80140 and open it.
 4. Jot down the first five characters of each folder name. You will use these to identify which folders existed before you make new ones, later. Do NOT close this Windows Explorer window.
 5. Start Flight Simulator, choose Options and then Controls
 6. Click Saitek Pro Flight X-55 Rhino Stick, then click Preset Manager (bottom of the screen) and than click '+'. Name it anything and press OK.
